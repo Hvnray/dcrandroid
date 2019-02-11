@@ -14,6 +14,7 @@ public class Constants {
     public static final String
             TRANSACTION_NOTIFICATION_GROUP = "com.dcrandroid.NEW_TRANSACTIONS",
             NEW_TRANSACTION_NOTIFICATION = "new_transaction_notification",
+            NEW_POLITEIA_PROPOSAL_NOTIFICATION = "new_politeia_proposal_notification",
             NBSP = " ",
             SYNCED = "synced",
             BADGER_DB = "badgerdb",
